@@ -1,0 +1,42 @@
+{
+  "name": "shijing-chuci-naming",
+  "version": "1.0.0",
+  "description": "诗经起名字，楚辞起名字 - 基于古典文学的中文起名网站",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "disqus-react": "1.1.7",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.2.4"
+  },
+  "keywords": [
+    "诗经起名",
+    "楚辞起名",
+    "周易起名",
+    "起名声调韵律",
+    "好听的名字",
+    "男宝宝起名",
+    "女宝宝起名",
+    "女诗经男楚辞",
+    "历史上好听的名字"
+  ],
+  "author": "中国传统文化起名研究院",
+  "license": "MIT"
+}
